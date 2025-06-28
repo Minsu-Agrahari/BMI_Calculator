@@ -38,9 +38,13 @@ A simple and interactive **Body Mass Index (BMI) Calculator** built using HTML, 
 ## 📂 Folder Structure
 
 P2_BMI_Calculator/
+
 ├── index.html # HTML structure
+
 ├── style.css # Styling
+
 ├── script.js # JavaScript logic
+
 └── README.md # Project documentation
 
 
@@ -58,7 +62,7 @@ P2_BMI_Calculator/
 
 ## 📸 Screenshot
 
-![BMI Calculator Screenshot](![image](https://github.com/user-attachments/assets/e49989e8-86ce-4804-94be-9d4014a739be)
+(![image](https://github.com/user-attachments/assets/e49989e8-86ce-4804-94be-9d4014a739be)
 
 
 ---
