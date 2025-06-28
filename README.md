@@ -62,7 +62,8 @@ P2_BMI_Calculator/
 
 ## 📸 Screenshot
 
-(![image](https://github.com/user-attachments/assets/e49989e8-86ce-4804-94be-9d4014a739be)
+![image](https://github.com/user-attachments/assets/f56de95b-4bd1-44df-9e14-c1fe7ae506bb)
+![image](https://github.com/user-attachments/assets/e49989e8-86ce-4804-94be-9d4014a739be)
 
 
 ---
